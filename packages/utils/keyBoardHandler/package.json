@@ -1,0 +1,17 @@
+{
+  "name": "@testMonorep/keyBoardHandler",
+  "version": "0.2.0",
+  "main": "dist/index.js",
+  "module": "dist/index.es.js",
+  "scripts": {
+    "build": "rollup -c",
+    "test": "jest .test.ts"
+  },
+  "peerDependencies": {
+    "react": "17.0.2",
+    "react-dom": "17.0.2"
+  },
+  "publishConfig": {
+    "registry": "https://git.jetmail.cc/api/v4/projects/527/packages/npm/"
+  }
+}
