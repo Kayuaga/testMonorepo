@@ -1,6 +1,0 @@
-/node_modules
-/src
-.babelrc
-rollup.config.js
-tsconfig.json
-index.tsx
