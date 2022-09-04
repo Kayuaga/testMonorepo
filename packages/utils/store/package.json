@@ -14,8 +14,7 @@
     "react-redux": "7.2.5"
   },
   "publishConfig": {
-    "@casino-platform:registry": "https://git.jetmail.cc/api/v4/projects/527/packages/npm/",
-    "registry": "https://git.jetmail.cc/api/v4/projects/527/packages/npm/"
+    "@Kayuaga:registry":"registry=https://npm.pkg.github.com"
   },
   "gitHead": "7815ef9b5728faf3802586e76c6685aa5a5e0d8e"
 }
