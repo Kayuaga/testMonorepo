@@ -3,5 +3,10 @@
   "useNx": true,
   "version": "0.0.6",
   "npmClient": "yarn",
-  "useWorkspaces": true
+  "useWorkspaces": true,
+  "command": {
+    "publish": {
+      "registry": "https://npm.pkg.github.com/Kayuaga"
+    }
+  }
 }
