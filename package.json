@@ -1,9 +1,9 @@
 {
-  "name": "@testMonorep/monorepo",
+  "name": "@testmonorep/monorepo",
   "private": true,
   "scripts": {
-    "run:project": "lerna run --scope='@testMonorep/testProjectOne' start --stream",
-    "build:keyBoardHandler": "lerna run build --scope=@testMonorep/keyBoardHandler"
+    "run:project": "lerna run --scope='@testmonorep/testProjectOne' start --stream",
+    "build:keyBoardHandler": "lerna run build --scope=@testmonorep/keyBoardHandler"
   },
   "workspaces": [
     "packages/*",

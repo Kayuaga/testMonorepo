@@ -1,5 +1,5 @@
 {
-  "name": "@testMonorep/testProjectOne",
+  "name": "@testmonorep/testProjectOne",
   "version": "0.0.5",
   "private": true,
   "workspaces": [
