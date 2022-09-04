@@ -14,5 +14,6 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
-  "repository": "https://github.com/Kayuaga/testMonorepo.git"
+  "repository": "https://github.com/Kayuaga/testMonorepo.git",
+  "gitHead": "79d63fc57f0414dd5a404fb4ec4a43110a4e0f9a"
 }
