@@ -10,6 +10,11 @@
     "packages/utils/*",
     "projects/*"
   ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "repository": "https://github.com/Kayuaga/testMonorepo.git"
+  },
+  "repository": "https://github.com/Kayuaga/testMonorepo.git",
   "devDependencies": {
     "lerna": "^5.5.0",
     "@babel/core": "7.16.5",

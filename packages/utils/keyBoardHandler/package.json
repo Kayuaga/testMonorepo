@@ -12,8 +12,9 @@
     "react-dom": "17.0.2"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com",
+    "repository": "https://github.com/Kayuaga/testMonorepo.git"
   },
   "repository": "https://github.com/Kayuaga/testMonorepo.git",
-  "gitHead": "79d63fc57f0414dd5a404fb4ec4a43110a4e0f9a"
+  "gitHead": "e8e1d87aa159a883f3db2a8872269cb394c7ae46"
 }
