@@ -1,6 +1,6 @@
 {
   "name": "@testMonorep/popupManager",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "scripts": {
@@ -12,6 +12,6 @@
     "react-dom": "17.0.2"
   },
   "publishConfig": {
-    "@Kayuaga:registry":"registry=https://npm.pkg.github.com"
+    "@Kayuaga:registry": "registry=https://npm.pkg.github.com"
   }
 }

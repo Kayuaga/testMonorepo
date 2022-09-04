@@ -1,6 +1,6 @@
 {
   "name": "@testMonorep/store",
-  "version": "0.0.6",
+  "version": "0.0.1",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "react-redux": "7.2.5"
   },
   "publishConfig": {
-    "@Kayuaga:registry":"registry=https://npm.pkg.github.com"
+    "@Kayuaga:registry": "registry=https://npm.pkg.github.com"
   },
   "gitHead": "7815ef9b5728faf3802586e76c6685aa5a5e0d8e"
 }
