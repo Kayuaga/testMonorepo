@@ -14,7 +14,7 @@
     "react-redux": "7.2.5"
   },
   "publishConfig": {
-    "@Kayuaga:registry": "registry=https://npm.pkg.github.com"
+    "@Kayuaga:registry": "https://npm.pkg.github.com"
   },
-  "gitHead": "7815ef9b5728faf3802586e76c6685aa5a5e0d8e"
+  "gitHead": "e43c6cdc5ab521abcccd1c97519c120c86c81be7"
 }

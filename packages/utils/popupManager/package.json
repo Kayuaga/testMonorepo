@@ -12,6 +12,7 @@
     "react-dom": "17.0.2"
   },
   "publishConfig": {
-    "@Kayuaga:registry": "registry=https://npm.pkg.github.com"
-  }
+    "@Kayuaga:registry": "https://npm.pkg.github.com"
+  },
+  "gitHead": "e43c6cdc5ab521abcccd1c97519c120c86c81be7"
 }
