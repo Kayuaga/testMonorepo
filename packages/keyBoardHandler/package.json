@@ -1,5 +1,5 @@
 {
-  "name": "@testmonorep/keyboardhandler",
+  "name": "@kayuaga/keyboardhandler",
   "version": "0.0.27",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -19,5 +19,5 @@
     "url": "https://github.com/Kayuaga/testMonorepo.git",
     "directory": "packages/keyBoardHandler"
   },
-  "gitHead": "2e370d632a258094d0a184b8401c408bec47a9e1"
+  "gitHead": "b88fbbeaa76718dfa2f555741bae7d0d1a3f947b"
 }
