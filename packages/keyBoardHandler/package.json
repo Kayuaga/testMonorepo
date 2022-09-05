@@ -12,7 +12,6 @@
     "react-dom": "17.0.2"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com",
     "@testmonorep:registry": "https://npm.pkg.github.com"
   },
   "repository": {
@@ -20,5 +19,5 @@
     "url": "https://github.com/Kayuaga/testMonorepo.git",
     "directory": "packages/keyBoardHandler"
   },
-  "gitHead": "aedba3558fe26650549bf7a7ee8e9d746dacc429"
+  "gitHead": "2a13e2893f32a340583dd6c1c2f89965852de1a8"
 }

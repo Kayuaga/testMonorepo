@@ -6,6 +6,7 @@
   "useWorkspaces": true,
   "command": {
     "publish": {
+      "@testmonorep:registry": "https://npm.pkg.github.com",
       "registry": "https://npm.pkg.github.com/"
     }
   }
