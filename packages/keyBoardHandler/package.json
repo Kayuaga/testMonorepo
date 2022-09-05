@@ -16,8 +16,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Kayuaga/testMonorepo.git",
+    "url": "git://github.com/Kayuaga/testMonorepo.git",
     "directory": "packages/keyBoardHandler"
   },
-  "gitHead": "2a13e2893f32a340583dd6c1c2f89965852de1a8"
+  "gitHead": "29a07affc516c949d0051d611ad446776fbed097"
 }
